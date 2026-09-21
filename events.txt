@@ -1,2 +1,6 @@
-pratibimb, oodddd, 6th oct
+<<<<<<< HEAD
+pratibimb, dd, 6th oct
+=======
+pratibimb, dd, 6th oct
+>>>>>>> feature-update
 echno, ff, 5th oct
